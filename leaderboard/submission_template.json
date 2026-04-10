@@ -1,6 +1,6 @@
 {
-    "group_name": "Team Alpha",
-    "project_private_repo_url": "https://github.com/xxxxxx.git",
+    "group_name": "我們組 (WMZ)",
+    "project_private_repo_url": "https://github.com/lubailin0408/AAE5303_UNet",
     "metrics": {
         "dice_score": 38.54,
         "miou": 32.93,
